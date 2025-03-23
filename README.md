@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+👨‍💻 I lead a small team of developers and have over 10 years of experience in software development.
+
+📊 We're developing a system for displaying information about the technological processes of a power plant.
+
+📫 You can write to me here evg.smirnov@protonmail.com
+
 <!--
 **evg-smirnov/evg-smirnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
